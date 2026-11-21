@@ -1,0 +1,9 @@
+[nodule]
+format = "ndl-1"
+name = "noqeri/net"
+version = "1.0.0"
+entry = "src/net.noqeri"
+kind = "library"
+target = "portable"
+license = "Apache-2.0"
+description = "Official noqeri-net package for the Noqeri ecosystem"
